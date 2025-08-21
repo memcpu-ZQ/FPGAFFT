@@ -1,0 +1,4 @@
+#define LOGN 12
+
+
+
